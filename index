@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<meta charset="utf-8">
+	<title>Diaporoma</title>
+	<link rel="stylesheet" type="text/css" href="style.css">
+</head>
+<body>
+<div id="Diaporoma">
+	<div class="image">
+		<img src="1.jpeg" alt="photo 1">
+		<img src="2.jpeg" alt="photo 2">
+		<img src="3.jpeg" alt="photo 3">
+		<img src="4.jpeg" alt="photo 4">
+		<img src="5.jpeg" alt="photo 5">
+	</div>
+</div>
+</body>
+</html>
